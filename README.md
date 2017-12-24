@@ -89,10 +89,12 @@ Insert this code to your web and your ready, don't forget to also include `<?php
 ## Contributors
 
 Contribute with us!
+
+Project Progress:
 - [ ] API
 - [ ] Design
 - [ ] Security
 - [x] Votes Bar Length
 
 ## License
-Licensed under 
+Licensed under GNU General Public License v3.0
